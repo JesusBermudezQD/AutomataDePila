@@ -1,0 +1,9 @@
+git init
+
+git add .
+
+git commit -m "lo que sea"
+
+git push -u origin master
+
+git clone https://github.com/JesusBermudezQD/AutomataDePila.git
