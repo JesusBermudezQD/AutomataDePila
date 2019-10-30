@@ -534,7 +534,6 @@ class Ventana():
                     self.canvasGrafo.after(980*aux,self.hablar,"palabra no aceptada")
 
 
-
     def animacionRapida(self):
     
         self.nodop=self.canvasGrafo.create_oval(30, 90, 80, 140, width=2, fill='#42b883') 
