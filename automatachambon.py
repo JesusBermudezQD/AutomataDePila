@@ -197,8 +197,6 @@ class Grafo:
 
         self.palabraValidar = palabra+"λ"
         self.agregarArco(listarcos)
-       # grafo=Grafo()
-       # grafo.verificar()
 
 
 
