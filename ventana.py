@@ -595,7 +595,3 @@ class Ventana():
 
 p=Ventana()
 p.inicio()
-
-
-
-
