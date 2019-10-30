@@ -212,17 +212,3 @@ class Arco():
         self.desapilar=desapilar
         self.apilar=apilar
 
-
-    
-
-
-
-
-
-
-
-
-""" if(grafo.aceptada==True):
-    print("aceptada")
-else:
-    print("no aceptada")   """
